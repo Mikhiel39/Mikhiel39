@@ -30,9 +30,9 @@
 <br>
 
 <h3 align="left">Tech Stack that I Know:</h3>
-p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,dynamodb,express,figma,github,html,java,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,express,figma,github,html,java,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=12" />
   </a>
 </p>
 <br>
@@ -42,7 +42,6 @@ p align="center">
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhiel39&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="mikhiel39" 
     bg_color=#808080/></p>
-
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikhiel39&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
