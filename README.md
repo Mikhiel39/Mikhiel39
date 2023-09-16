@@ -3,10 +3,11 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mikhiel39&label=Profile%20views&color=0e75b6&style=flat"
+    alt="mikhiel39" /> 
   </p>
-
+<!-- TROFEOS GITHUB -->
+<p align="left"> <a href="https://github.com/Mikhiel39/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikhiel39&theme=dracula&column=7" alt="mikhiel39" /></a> </p>
 <br>
 
 <p><img align="right" src="https://github.com/Mikhiel39/Mikhiel39/blob/main/animation_500_kxa883sd.gif" alt="mikhiel39" /></p>
@@ -25,9 +26,7 @@
   <a href="https://shorturl.at/lpFZ4" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Mikhiel Sujeet Benji" height="30" width="40" /></a>
-  <a href="https://rb.gy/t4hrl" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"
-      alt="Mikhiel Sujeet Benji" height="30" width="40" /></a>
+  <a href="https://shorturl.at/jnpAO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
 </p>
 
 <br>
